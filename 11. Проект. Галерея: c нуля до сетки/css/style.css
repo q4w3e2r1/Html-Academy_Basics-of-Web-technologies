@@ -1,0 +1,423 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 60px;
+    color: #163152;
+    margin: 0;
+    padding: 0;
+    background-color: #FDFDFF;
+    width: 1480px;
+}
+
+.navigation-item {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.navigation-item a {
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #163152;
+}
+
+
+h1 {
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 44px;
+    line-height: 60px;
+}
+
+h2 {
+    font-weight:bold;
+}
+
+.blog-date-2 {
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+}
+
+.blog-date-1 {
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+}
+
+.blog-description-1 {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.blog-description-2 {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.line {
+    text-decoration: underline;
+    text-decoration-color: #00C6BD;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 15px;
+    text-underline-position: under;
+
+    font-size: 24px;
+    line-height: 34px;
+
+    margin-top: 10px;
+}
+
+
+h3 {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.news {
+}
+
+
+
+.title {
+    color: #8693A4;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.results {
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: bold;
+}
+
+.news_information {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.command {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.quote {
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 36px;
+    padding-left: 20px;
+    border-left: 2px solid #00C6BD;
+    background-color: transparent;
+}
+
+h4 {
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: bold;
+}
+
+.date{
+    font-size: 16px;
+    line-height: 19px;
+    color: #8693A4;
+}
+
+.name{
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: bold;
+}
+
+
+.contact-item {
+    font-size: 16px;
+    line-height: 22px;
+}
+
+h3 + a {
+    font-size: 16px;
+    line-height: 22px;
+    text-decoration: none;
+    color: #163152;
+}
+
+.policy {
+    font-size: 10px;
+    line-height: 12px;
+
+}
+
+.policy a {
+    color: #163152;
+    text-decoration: none;
+    display: block;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+    padding-bottom:0 ;
+}
+
+.logo-1{
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    padding-top: 0;
+
+}
+
+.copyright {
+    font-size: 10px;
+    line-height: 12px;
+}
+
+.footer-navigation-item a {
+    text-decoration: none;
+    color: #163152;
+}
+
+.footer-navigation-item {
+    font-size: 14px;
+    line-height: 16px
+}
+
+.footer-navigation-topic + h2 {
+    font-size: 14px;
+    line-height: 18px
+}
+
+
+
+
+
+
+
+
+
+.main-header{
+    padding: 20px 55px;
+    width:1170px;
+    height: 144px;
+    margin: 0 100px;
+    margin-bottom: 0px;
+}
+
+.main-header-nav{
+    display: flex;
+    justify-content: start;
+    height: 144px;
+    width: 1170px;
+    margin-bottom: 0;
+}
+
+
+.signin{
+    margin-left: auto;
+    width: 36px;
+    display: block;
+    justify-self: start;
+    margin-top: 0;
+}
+
+.navigation{
+    width:559px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 471px;
+    padding-left: 0;
+    list-style: none;
+}
+
+.navigation-item{
+    margin-bottom: 5px;
+}
+
+.navigation-item:last-child{
+    margin-bottom: 2px;
+}
+
+.navigation-item:first-child{
+    margin-top: 2px;
+}
+
+.main{
+    margin-top: 0;
+    padding-top: 0;
+    margin-left: 100px;
+    width: 1280px;
+}
+
+.title-hero{
+    margin-bottom: 40px;
+}
+
+.hero{
+    margin-left: 55px;
+    height: 566px;
+    margin-top: 0;
+    width: 1170px;
+    margin-bottom: 120px;
+    margin-right: 0;
+}
+
+.blog-1{
+    margin-left: 125px;
+    padding-left: 0;
+    width: 1030px;
+    height: 262px;
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.title-1{
+    margin-right: 30px;
+    width: 400px;
+}
+
+
+
+.blog-description-1{
+    margin-top: 35px;
+}
+
+.blog-2{
+    margin-left: 125px;
+    padding-left: 0;
+    width: 1030px;
+    height: 252px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom: 120px;
+
+}
+
+.title-2{
+    margin-left: 30px;
+    width: 400px;
+}
+
+.blog-description-2{
+    margin-top: 35px;
+}
+
+main {
+    margin-top: 0;
+}
+
+.news{
+    margin-left: 255px;
+    width: 770px;
+    height: 1349px;
+    margin-top: 0;
+    margin-bottom: 120px;
+}
+
+.news_title{
+    height: 1260px;
+}
+
+.contacts{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    margin-left: 55px;
+    margin-right: 55px;
+    margin-bottom: 120px;
+}
+
+.contact-title{
+    width: 400px;
+}
+
+.main-footer{
+    margin-left: 0;
+    width: 1280px;
+    margin-right: 0;
+    padding: 60px 100px;
+}
+
+.footer-column{
+    width: 160px;
+}
+.logo{
+    display: block;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.policy{
+    display: block;
+    margin-top: 0;
+}
+
+.footer-info{
+    display: flex;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.footer-navigation-topics{
+    display: flex;
+    list-style: none;
+    margin-left: 120px;
+    justify-content: start;
+    padding-left: 0;
+}
+
+.footer-navigation-topic{
+    margin-right: 60px;
+    display: block;
+    padding-left: 0;
+    margin-left: 0;
+
+}
+
+.footer-navigation-topic:last-child{
+    margin-right: 50px;
+}
+
+.footer-navigation-item{
+    list-style: none;
+    margin-right: auto;
+    display: block;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+
+.gallery{
+    width: 1170px;
+    height: 779px;
+    margin: 0 55px 120px;
+}
+
+.div-gallery{
+    display: flex;
+    padding: 0;
+}
+
+
+
+.gallery-images{
+    display: flex;
+    flex-direction: column;
+}
+
+.selected-image{
+    margin-right: auto;
+}
+
+.image{
+    margin-left: 30px;
+    margin-bottom: 30px;
+    width: 170px;
+    height: 150px;
+}
+
+.image:last-child{
+    margin-bottom: 0;
+}
